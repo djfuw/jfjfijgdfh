@@ -21,19 +21,19 @@
                         "dest": 3001
                     },
                     {
-                        "path": "/vless",
+                        "path": "/9e3f94ab-ac0c-4190-b362-7f456643ca36-vless",
                         "dest": 3002
                     },
                     {
-                        "path": "/vmess",
+                        "path": "/9e3f94ab-ac0c-4190-b362-7f456643ca36-vmess",
                         "dest": 3003
                     },
                     {
-                        "path": "/trojan",
+                        "path": "/9e3f94ab-ac0c-4190-b362-7f456643ca36-trojan",
                         "dest": 3004
                     },
                     {
-                        "path": "/shadowsocks",
+                        "path": "/9e3f94ab-ac0c-4190-b362-7f456643ca36-shadowsocks",
                         "dest": 3005
                     }
                 ]
@@ -76,7 +76,7 @@
                 "network": "ws",
                 "security": "none",
                 "wsSettings": {
-                    "path": "/vless"
+                    "path": "/9e3f94ab-ac0c-4190-b362-7f456643ca36-vless"
                 }
             },
             "sniffing": {
@@ -104,7 +104,7 @@
             "streamSettings": {
                 "network": "ws",
                 "wsSettings": {
-                    "path": "/vmess"
+                    "path": "/9e3f94ab-ac0c-4190-b362-7f456643ca36-vmess"
                 }
             },
             "sniffing": {
@@ -132,7 +132,7 @@
                 "network": "ws",
                 "security": "none",
                 "wsSettings": {
-                    "path": "/trojan"
+                    "path": "/9e3f94ab-ac0c-4190-b362-7f456643ca36-trojan"
                 }
             },
             "sniffing": {
@@ -161,7 +161,7 @@
             "streamSettings": {
                 "network": "ws",
                 "wsSettings": {
-                    "path": "/shadowsocks"
+                    "path": "/9e3f94ab-ac0c-4190-b362-7f456643ca36-shadowsocks"
                 }
             },
             "sniffing": {
